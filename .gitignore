@@ -1,0 +1,8 @@
+#ignore IDE config folders
+/.vscode
+/.idea
+
+
+#ignore bin folder
+bin/
+
